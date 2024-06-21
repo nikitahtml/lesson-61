@@ -1,5 +1,4 @@
 
-
 const CountryInfo = () => {
     return (
         <div>
