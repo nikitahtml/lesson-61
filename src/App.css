@@ -12,7 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(135deg, #74b9ff, #a29bfe);
+  background: linear-gradient(135deg, #20B2AA, #a29bfe);
   color: #2d3436;
 }
 
@@ -90,7 +90,7 @@ h1 {
 }
 
 .footer {
-  background-color: #6c5ce7;
+  background-color: #20B2AA;
   color: #fff;
   width: 100%;
   padding: 10px;
