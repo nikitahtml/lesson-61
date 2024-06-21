@@ -20,7 +20,9 @@ const CountryForm: React.FC<CountryFormProps> = ({ countries, onSelect }) => {
                         {country.name}
                     </option>
                 ))}
+
             </select>
+
         </div>
     );
 };

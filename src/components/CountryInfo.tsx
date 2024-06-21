@@ -36,6 +36,7 @@ const CountryInfo: React.FC<CountryInfoProps> = ({ countryCode }) => {
     const bordersText = country.borders && country.borders.length > 0 ? country.borders.join(', ') : 'Нет граничащих стран';
 
     return (
+
         <div className="country-info">
             <h3>{country.name}</h3>
             <img src={country.flag} alt={`Flag of ${country.name}`} width="200" />
